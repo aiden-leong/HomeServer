@@ -5,7 +5,7 @@ Create "HomeServer" folder on ~/Desktop
 Display pics in that folder  
 
 ## Road map  
-I don't promise anything about how this project  
+I don't promise anything about this project  
 Alarm clock ?  
 ## License
 I love BSD  
